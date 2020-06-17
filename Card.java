@@ -7,6 +7,6 @@ public class Card {
 	public double cvv;
 	public double availableCredit;
 	public String status;
-		
+	public double amount;
 
 }
